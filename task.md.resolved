@@ -1,0 +1,11 @@
+# Task List
+
+- [x] Locate `project.docx` file
+- [x] Write Python script to extract text from `project.docx`
+- [x] Run the Python script and read the extracted text
+- [x] Understand and summarize the contents of `project.docx`
+- [x] Phase 1: Data Collection & Preparation (Simulation & EDA)
+- [x] Phase 2: Data Preprocessing
+- [x] Phase 3: Model Development & Training
+- [x] Phase 4: Model Evaluation & Visualizations
+- [x] Phase 5: Build a simple Web Interface (Deployment)

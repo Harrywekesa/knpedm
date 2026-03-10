@@ -1,0 +1,47 @@
+# How to Package and Run the Project on a New Laptop
+
+To move this system from this computer to another laptop and get it running perfectly, you only need to follow these simple steps.
+
+---
+
+## Part 1: Packaging the Project (On This Computer)
+
+1. Navigate to the `Videos` folder on this computer.
+2. Locate the folder named **`mattews`**.
+3. Right-click the **`mattews`** folder and select **Compress to ZIP file** (or "Send to > Compressed (zipped) folder").
+4. Copy the newly created `mattews.zip` file onto a USB Flash Drive (or email/Google Drive it to the new laptop).
+
+---
+
+## Part 2: Preparing the New Laptop
+
+Before the code can run, the new laptop needs the core engine (Python).
+
+1. On the new laptop, download and install **Python** from [python.org/downloads](https://www.python.org/downloads/).
+2. **⚠️ CRITICAL STEP DURING INSTALLATION:** When the Python installer opens, look at the very bottom of the window and check the box that says **"Add python.exe to PATH"**. If you skip this, the project will not run. Then click "Install Now".
+
+---
+
+## Part 3: Running the Project (On the New Laptop)
+
+1. Move the `mattews.zip` file from your USB drive to the new laptop (e.g., to the Desktop or Documents folder).
+2. Right-click the zip file and select **Extract All...** to unzip it.
+3. Open the newly unzipped **`mattews`** folder.
+4. Click firmly inside the **Address Bar** at the top of the folder window (where it says the folder path, like `C:\Users\Name\Desktop\mattews`).
+5. Delete whatever is in the address bar, type **`cmd`**, and press **Enter**.
+   *This will open a black terminal window pointing exactly at your project folder.*
+
+### Installing the Brains (One-Time Setup)
+Your project needs certain libraries (like Streamlit and Scikit-Learn) to function. In the black terminal window, copy and paste this command and press Enter:
+```bash
+pip install -r requirements.txt
+```
+*(Wait 1-2 minutes for it to download everything. You only ever have to do this once.)*
+
+### Launching the Dashboard
+Finally, to start the website, type this into the terminal and press Enter:
+```bash
+python -m streamlit run app.py
+```
+
+The web browser on the new laptop will automatically open, and the Kitale National Polytechnic dashboard will be up and running!

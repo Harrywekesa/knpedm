@@ -1,0 +1,301 @@
+StudentID,Department,Attendance_Pct,Assignment_Score,CAT_1_Score,CAT_2_Score,Final_Exam_Score,Status
+KNP/STUD/0001,Computing and Informatics,84.0,65.3,82.3,77.7,89.4,Pass
+KNP/STUD/0002,Engineering,76.3,64.9,59.8,66.2,76.5,Pass
+KNP/STUD/0003,Business,85.8,81.8,87.5,77.4,95.7,Pass
+KNP/STUD/0004,Computing and Informatics,96.3,84.6,97.1,96.1,100.0,Pass
+KNP/STUD/0005,Computing and Informatics,75.2,69.9,76.5,73.8,86.5,Pass
+KNP/STUD/0006,Computing and Informatics,75.2,71.2,94.3,72.4,90.1,Pass
+KNP/STUD/0007,Engineering,97.0,91.6,73.1,66.1,89.1,Pass
+KNP/STUD/0008,Engineering,87.2,69.0,60.0,83.9,81.6,Pass
+KNP/STUD/0009,Engineering,72.4,74.4,50.2,79.3,71.5,Pass
+KNP/STUD/0010,Business,84.5,71.8,92.7,100.0,100.0,Pass
+KNP/STUD/0011,Business,72.4,66.8,77.9,66.4,73.4,Pass
+KNP/STUD/0012,Computing and Informatics,72.4,80.0,72.0,75.3,82.4,Pass
+KNP/STUD/0013,Computing and Informatics,80.9,80.6,78.8,78.4,86.0,Pass
+KNP/STUD/0014,Business,55.0,70.2,52.0,84.5,86.5,Pass
+KNP/STUD/0015,Computing and Informatics,57.3,76.0,96.7,66.2,84.5,Pass
+KNP/STUD/0016,Computing and Informatics,71.3,68.7,71.7,73.5,93.9,Pass
+KNP/STUD/0017,Business,65.8,73.2,70.7,76.7,79.2,Pass
+KNP/STUD/0018,Engineering,81.8,69.6,82.2,75.7,91.0,Pass
+KNP/STUD/0019,Applied Sciences,67.1,70.1,74.9,63.8,75.5,Pass
+KNP/STUD/0020,Applied Sciences,61.1,63.1,68.6,68.3,95.7,Pass
+KNP/STUD/0021,Business,95.6,79.2,70.0,92.4,85.9,Pass
+KNP/STUD/0022,Business,75.3,76.1,78.5,60.5,88.1,Pass
+KNP/STUD/0023,Business,78.8,63.3,93.9,72.9,93.2,Pass
+KNP/STUD/0024,Engineering,60.9,85.3,86.5,61.9,90.8,Pass
+KNP/STUD/0025,Computing and Informatics,71.5,58.5,87.3,82.5,84.3,Pass
+KNP/STUD/0026,Business,79.3,59.6,64.6,52.4,76.1,Pass
+KNP/STUD/0027,Engineering,64.2,77.3,57.8,63.0,80.5,Pass
+KNP/STUD/0028,Computing and Informatics,82.5,80.9,74.4,80.5,90.6,Pass
+KNP/STUD/0029,Business,70.8,74.6,71.8,89.9,96.6,Pass
+KNP/STUD/0030,Business,74.5,76.1,85.7,71.8,100.0,Pass
+KNP/STUD/0031,Computing and Informatics,70.8,68.2,49.6,63.2,72.7,Pass
+KNP/STUD/0032,Computing and Informatics,100.0,71.0,97.6,100.0,89.9,Pass
+KNP/STUD/0033,Computing and Informatics,77.8,71.9,70.8,55.4,81.7,Pass
+KNP/STUD/0034,Computing and Informatics,65.3,59.4,61.3,40.1,91.8,Pass
+KNP/STUD/0035,Computing and Informatics,87.9,84.9,66.2,83.6,86.6,Pass
+KNP/STUD/0036,Engineering,63.3,63.9,46.9,60.8,86.5,Pass
+KNP/STUD/0037,Computing and Informatics,80.5,63.9,81.8,59.7,97.0,Pass
+KNP/STUD/0038,Business,54.5,58.6,63.9,71.6,71.1,Pass
+KNP/STUD/0039,Computing and Informatics,62.1,69.0,51.9,70.3,82.1,Pass
+KNP/STUD/0040,Applied Sciences,80.4,66.5,56.9,65.6,93.6,Pass
+KNP/STUD/0041,Computing and Informatics,86.9,66.5,70.3,59.0,80.2,Pass
+KNP/STUD/0042,Business,80.1,74.5,93.9,84.4,92.4,Pass
+KNP/STUD/0043,Engineering,76.6,73.1,69.5,80.4,82.6,Pass
+KNP/STUD/0044,Engineering,74.4,64.7,52.2,69.1,70.4,Pass
+KNP/STUD/0045,Computing and Informatics,60.3,59.4,62.0,87.1,74.5,Pass
+KNP/STUD/0046,Engineering,69.4,70.1,66.5,57.0,69.8,Pass
+KNP/STUD/0047,Business,72.5,54.5,35.3,49.3,68.0,Pass
+KNP/STUD/0048,Business,90.7,62.2,74.0,66.3,78.7,Pass
+KNP/STUD/0049,Computing and Informatics,82.1,65.7,70.0,72.2,86.4,Pass
+KNP/STUD/0050,Computing and Informatics,56.8,60.6,72.5,67.1,65.0,Pass
+KNP/STUD/0051,Engineering,81.9,75.9,96.9,71.8,95.5,Pass
+KNP/STUD/0052,Business,73.4,84.1,87.4,78.1,99.7,Pass
+KNP/STUD/0053,Business,69.9,76.5,68.0,56.3,65.8,Pass
+KNP/STUD/0054,Engineering,85.3,72.5,61.8,92.4,92.7,Pass
+KNP/STUD/0055,Engineering,90.4,76.0,100.0,76.3,100.0,Pass
+KNP/STUD/0056,Computing and Informatics,89.2,65.6,75.6,88.3,80.6,Pass
+KNP/STUD/0057,Business,67.9,67.0,68.9,72.9,95.4,Pass
+KNP/STUD/0058,Computing and Informatics,74.3,66.8,70.4,76.1,87.6,Pass
+KNP/STUD/0059,Engineering,82.0,76.0,77.2,81.6,85.3,Pass
+KNP/STUD/0060,Business,89.7,67.6,73.7,80.8,88.7,Pass
+KNP/STUD/0061,Applied Sciences,72.2,74.1,64.6,79.2,89.9,Pass
+KNP/STUD/0062,Computing and Informatics,75.8,85.6,68.3,90.8,93.3,Pass
+KNP/STUD/0063,Computing and Informatics,64.7,64.8,67.0,69.7,84.0,Pass
+KNP/STUD/0064,Computing and Informatics,63.6,69.5,61.5,76.5,73.8,Pass
+KNP/STUD/0065,Computing and Informatics,87.8,82.0,69.2,76.6,92.7,Pass
+KNP/STUD/0066,Computing and Informatics,94.3,73.7,79.3,95.3,84.6,Pass
+KNP/STUD/0067,Applied Sciences,77.1,73.1,69.7,64.6,83.3,Pass
+KNP/STUD/0068,Computing and Informatics,90.0,76.1,95.3,98.9,92.4,Pass
+KNP/STUD/0069,Computing and Informatics,82.3,73.9,42.7,74.0,76.1,Pass
+KNP/STUD/0070,Engineering,70.3,60.4,81.3,51.0,88.5,Pass
+KNP/STUD/0071,Business,82.3,73.2,89.3,75.9,100.0,Pass
+KNP/STUD/0072,Engineering,96.5,83.6,55.8,72.5,94.9,Pass
+KNP/STUD/0073,Computing and Informatics,77.6,85.5,71.3,85.5,83.8,Pass
+KNP/STUD/0074,Business,96.8,88.3,77.2,73.9,93.5,Pass
+KNP/STUD/0075,Computing and Informatics,46.6,80.2,48.1,59.6,84.6,Pass
+KNP/STUD/0076,Computing and Informatics,87.9,67.5,65.5,52.2,82.5,Pass
+KNP/STUD/0077,Applied Sciences,79.0,80.3,61.5,69.4,100.0,Pass
+KNP/STUD/0078,Computing and Informatics,74.4,71.6,92.7,42.6,86.6,Pass
+KNP/STUD/0079,Business,79.1,93.5,88.7,58.4,94.8,Pass
+KNP/STUD/0080,Business,54.1,53.6,77.2,71.1,74.1,Pass
+KNP/STUD/0081,Computing and Informatics,75.4,61.7,78.6,79.4,86.3,Pass
+KNP/STUD/0082,Engineering,82.3,66.9,59.5,78.2,82.9,Pass
+KNP/STUD/0083,Computing and Informatics,95.7,57.1,68.8,63.5,88.4,Pass
+KNP/STUD/0084,Business,71.8,63.5,75.1,68.7,89.8,Pass
+KNP/STUD/0085,Applied Sciences,68.3,59.7,52.8,67.4,69.3,Pass
+KNP/STUD/0086,Business,72.0,70.3,79.2,56.8,72.0,Pass
+KNP/STUD/0087,Applied Sciences,89.0,79.0,74.6,95.5,80.8,Pass
+KNP/STUD/0088,Computing and Informatics,81.9,91.5,73.4,88.4,100.0,Pass
+KNP/STUD/0089,Business,71.6,78.2,80.7,69.5,79.0,Pass
+KNP/STUD/0090,Computing and Informatics,84.2,67.9,79.2,74.1,70.6,Pass
+KNP/STUD/0091,Engineering,79.2,62.7,67.0,73.8,85.9,Pass
+KNP/STUD/0092,Applied Sciences,89.6,80.8,92.0,53.5,100.0,Pass
+KNP/STUD/0093,Computing and Informatics,69.6,54.6,53.8,63.8,73.8,Pass
+KNP/STUD/0094,Business,74.1,87.9,82.2,66.6,97.7,Pass
+KNP/STUD/0095,Computing and Informatics,73.3,81.1,80.3,61.2,88.0,Pass
+KNP/STUD/0096,Business,60.4,59.5,61.3,61.7,73.7,Pass
+KNP/STUD/0097,Business,81.6,55.5,74.5,92.1,93.6,Pass
+KNP/STUD/0098,Applied Sciences,81.1,86.0,61.5,84.2,88.9,Pass
+KNP/STUD/0099,Business,78.1,70.1,83.5,65.6,88.6,Pass
+KNP/STUD/0100,Computing and Informatics,75.2,82.5,71.8,80.9,92.9,Pass
+KNP/STUD/0101,Computing and Informatics,61.0,48.5,56.7,79.8,68.7,Pass
+KNP/STUD/0102,Computing and Informatics,73.0,63.2,82.1,80.6,94.0,Pass
+KNP/STUD/0103,Computing and Informatics,73.9,69.6,62.6,71.8,81.1,Pass
+KNP/STUD/0104,Computing and Informatics,68.4,67.8,52.2,61.3,70.7,Pass
+KNP/STUD/0105,Engineering,76.1,65.9,52.3,79.4,85.6,Pass
+KNP/STUD/0106,Business,82.8,79.4,83.0,80.4,85.9,Pass
+KNP/STUD/0107,Business,100.0,69.3,63.5,89.6,91.6,Pass
+KNP/STUD/0108,Computing and Informatics,80.1,70.6,94.2,80.8,92.1,Pass
+KNP/STUD/0109,Engineering,81.1,73.6,49.1,86.6,94.1,Pass
+KNP/STUD/0110,Engineering,77.1,76.0,93.7,66.9,94.1,Pass
+KNP/STUD/0111,Computing and Informatics,55.0,69.1,67.8,81.1,81.3,Pass
+KNP/STUD/0112,Engineering,77.7,59.8,69.1,72.6,88.4,Pass
+KNP/STUD/0113,Business,78.7,56.1,63.3,94.7,95.3,Pass
+KNP/STUD/0114,Computing and Informatics,100.0,92.8,88.3,75.3,100.0,Pass
+KNP/STUD/0115,Business,75.7,73.6,72.0,93.3,90.3,Pass
+KNP/STUD/0116,Business,81.6,65.2,85.8,74.9,77.5,Pass
+KNP/STUD/0117,Computing and Informatics,77.6,86.5,77.0,67.8,81.9,Pass
+KNP/STUD/0118,Applied Sciences,64.0,66.7,69.3,61.7,76.6,Pass
+KNP/STUD/0119,Engineering,91.7,88.5,75.8,76.4,90.5,Pass
+KNP/STUD/0120,Business,87.0,75.5,75.5,81.3,89.9,Pass
+KNP/STUD/0121,Business,87.5,95.6,84.1,86.6,100.0,Pass
+KNP/STUD/0122,Business,67.1,84.4,51.5,65.1,86.3,Pass
+KNP/STUD/0123,Business,94.8,75.4,62.4,78.2,89.2,Pass
+KNP/STUD/0124,Business,61.2,74.2,77.1,93.9,92.6,Pass
+KNP/STUD/0125,Computing and Informatics,85.0,80.5,78.7,97.3,96.9,Pass
+KNP/STUD/0126,Business,100.0,93.7,81.5,89.0,86.4,Pass
+KNP/STUD/0127,Engineering,66.1,56.8,66.4,66.6,69.4,Pass
+KNP/STUD/0128,Business,71.2,75.3,75.6,72.9,85.4,Pass
+KNP/STUD/0129,Computing and Informatics,79.2,82.3,68.7,82.6,81.1,Pass
+KNP/STUD/0130,Engineering,72.0,51.2,57.5,54.6,77.0,Pass
+KNP/STUD/0131,Computing and Informatics,59.4,51.9,65.6,60.1,84.8,Pass
+KNP/STUD/0132,Computing and Informatics,78.8,51.1,57.1,48.9,82.1,Pass
+KNP/STUD/0133,Computing and Informatics,65.3,63.4,72.2,72.0,79.2,Pass
+KNP/STUD/0134,Computing and Informatics,83.7,80.6,55.8,84.0,100.0,Pass
+KNP/STUD/0135,Engineering,67.0,81.8,83.8,65.7,89.0,Pass
+KNP/STUD/0136,Business,96.6,79.4,85.5,98.7,97.3,Pass
+KNP/STUD/0137,Computing and Informatics,68.6,83.7,75.4,57.6,80.5,Pass
+KNP/STUD/0138,Engineering,74.1,55.9,80.2,50.8,75.4,Pass
+KNP/STUD/0139,Engineering,87.8,58.1,92.9,75.6,85.6,Pass
+KNP/STUD/0140,Engineering,63.2,64.7,79.1,79.5,85.1,Pass
+KNP/STUD/0141,Computing and Informatics,80.7,76.1,52.4,94.7,89.7,Pass
+KNP/STUD/0142,Business,93.7,77.1,63.2,73.0,89.1,Pass
+KNP/STUD/0143,Applied Sciences,58.7,42.8,53.7,74.1,73.6,Pass
+KNP/STUD/0144,Engineering,80.2,71.2,73.6,72.8,96.2,Pass
+KNP/STUD/0145,Computing and Informatics,81.1,59.4,77.4,69.1,91.0,Pass
+KNP/STUD/0146,Computing and Informatics,87.4,81.6,68.8,88.1,81.5,Pass
+KNP/STUD/0147,Business,63.2,68.9,70.0,75.6,62.0,Pass
+KNP/STUD/0148,Applied Sciences,62.2,55.5,55.7,45.8,76.8,Pass
+KNP/STUD/0149,Business,84.3,68.6,66.7,91.7,78.2,Pass
+KNP/STUD/0150,Business,81.6,62.0,55.0,88.4,81.8,Pass
+KNP/STUD/0151,Computing and Informatics,81.0,71.8,62.6,66.2,74.1,Pass
+KNP/STUD/0152,Business,82.2,82.4,59.9,80.9,74.9,Pass
+KNP/STUD/0153,Engineering,69.8,58.1,55.9,73.5,81.6,Pass
+KNP/STUD/0154,Computing and Informatics,80.8,77.4,87.4,77.8,98.5,Pass
+KNP/STUD/0155,Engineering,81.5,67.3,61.5,66.3,77.4,Pass
+KNP/STUD/0156,Applied Sciences,69.4,59.8,99.4,59.7,62.9,Pass
+KNP/STUD/0157,Computing and Informatics,100.0,78.9,86.7,80.5,92.7,Pass
+KNP/STUD/0158,Business,83.7,63.1,74.9,86.8,91.2,Pass
+KNP/STUD/0159,Computing and Informatics,63.7,59.9,55.8,72.6,64.6,Pass
+KNP/STUD/0160,Engineering,85.9,62.4,81.6,68.8,87.4,Pass
+KNP/STUD/0161,Business,66.3,86.2,65.2,81.4,88.3,Pass
+KNP/STUD/0162,Business,87.4,75.3,77.8,42.1,88.7,Pass
+KNP/STUD/0163,Engineering,91.9,69.8,100.0,90.3,98.3,Pass
+KNP/STUD/0164,Computing and Informatics,68.2,69.4,68.2,48.4,70.0,Pass
+KNP/STUD/0165,Applied Sciences,89.6,74.7,90.6,72.5,100.0,Pass
+KNP/STUD/0166,Business,83.0,71.0,65.6,60.6,81.9,Pass
+KNP/STUD/0167,Computing and Informatics,87.9,81.3,77.2,62.1,89.6,Pass
+KNP/STUD/0168,Business,100.0,87.6,100.0,96.4,98.1,Pass
+KNP/STUD/0169,Engineering,75.1,64.7,62.9,64.8,76.4,Pass
+KNP/STUD/0170,Computing and Informatics,69.0,61.8,89.8,72.2,77.7,Pass
+KNP/STUD/0171,Engineering,67.3,64.2,76.5,67.5,80.1,Pass
+KNP/STUD/0172,Applied Sciences,68.2,44.3,57.6,70.0,86.1,Pass
+KNP/STUD/0173,Computing and Informatics,77.1,55.7,76.8,70.2,70.5,Pass
+KNP/STUD/0174,Applied Sciences,82.1,86.5,88.6,61.5,79.5,Pass
+KNP/STUD/0175,Computing and Informatics,81.3,89.0,84.7,89.1,100.0,Pass
+KNP/STUD/0176,Computing and Informatics,87.9,72.7,57.1,70.0,83.1,Pass
+KNP/STUD/0177,Computing and Informatics,78.2,77.0,65.1,55.2,77.4,Pass
+KNP/STUD/0178,Engineering,95.4,81.3,76.9,74.8,100.0,Pass
+KNP/STUD/0179,Business,74.8,100.0,76.6,95.5,94.5,Pass
+KNP/STUD/0180,Computing and Informatics,100.0,91.2,90.7,93.4,100.0,Pass
+KNP/STUD/0181,Business,85.5,72.9,77.4,71.1,94.1,Pass
+KNP/STUD/0182,Business,67.7,57.5,50.8,62.6,69.6,Pass
+KNP/STUD/0183,Computing and Informatics,65.1,50.0,69.1,60.7,91.2,Pass
+KNP/STUD/0184,Engineering,83.8,75.6,82.6,100.0,91.1,Pass
+KNP/STUD/0185,Engineering,75.3,62.6,76.8,74.7,90.1,Pass
+KNP/STUD/0186,Business,86.6,60.4,86.0,78.2,90.7,Pass
+KNP/STUD/0187,Applied Sciences,83.7,67.0,83.5,85.9,100.0,Pass
+KNP/STUD/0188,Business,77.1,60.0,75.7,73.0,95.7,Pass
+KNP/STUD/0189,Applied Sciences,67.8,84.0,71.3,69.0,87.1,Pass
+KNP/STUD/0190,Business,59.8,72.7,47.6,65.1,70.3,Pass
+KNP/STUD/0191,Business,72.6,69.0,75.7,69.7,88.0,Pass
+KNP/STUD/0192,Computing and Informatics,88.3,90.1,82.0,79.1,91.5,Pass
+KNP/STUD/0193,Engineering,80.6,73.0,77.0,82.5,100.0,Pass
+KNP/STUD/0194,Business,63.1,56.6,49.9,65.9,73.8,Pass
+KNP/STUD/0195,Computing and Informatics,80.1,87.3,63.5,85.3,89.0,Pass
+KNP/STUD/0196,Computing and Informatics,82.6,78.4,88.1,74.5,94.1,Pass
+KNP/STUD/0197,Business,67.4,56.6,66.1,67.5,66.4,Pass
+KNP/STUD/0198,Business,79.8,70.0,81.1,49.0,75.2,Pass
+KNP/STUD/0199,Engineering,78.7,62.7,71.5,82.2,94.9,Pass
+KNP/STUD/0200,Engineering,64.3,51.9,65.0,68.8,69.9,Pass
+KNP/STUD/0201,Computing and Informatics,82.3,82.2,87.4,88.1,87.8,Pass
+KNP/STUD/0202,Engineering,84.7,93.0,72.8,44.3,92.6,Pass
+KNP/STUD/0203,Computing and Informatics,91.0,62.4,75.9,99.8,100.0,Pass
+KNP/STUD/0204,Engineering,90.6,81.9,73.0,76.9,98.4,Pass
+KNP/STUD/0205,Engineering,61.5,58.1,59.8,78.4,85.3,Pass
+KNP/STUD/0206,Business,66.7,61.8,63.7,54.9,69.6,Pass
+KNP/STUD/0207,Engineering,84.2,67.7,76.5,81.2,77.3,Pass
+KNP/STUD/0208,Computing and Informatics,84.2,65.0,67.5,60.6,94.0,Pass
+KNP/STUD/0209,Business,84.2,74.2,90.2,67.6,88.1,Pass
+KNP/STUD/0210,Engineering,100.0,71.7,68.6,100.0,93.2,Pass
+KNP/STUD/0211,Business,84.9,76.6,73.5,73.5,100.0,Pass
+KNP/STUD/0212,Computing and Informatics,91.6,76.1,72.4,80.3,96.2,Pass
+KNP/STUD/0213,Business,89.4,73.4,93.9,87.0,99.7,Pass
+KNP/STUD/0214,Engineering,85.8,65.3,76.2,79.7,100.0,Pass
+KNP/STUD/0215,Computing and Informatics,74.2,63.9,82.4,71.9,79.7,Pass
+KNP/STUD/0216,Computing and Informatics,87.1,82.4,59.8,82.0,97.9,Pass
+KNP/STUD/0217,Engineering,68.7,72.5,73.3,99.0,90.4,Pass
+KNP/STUD/0218,Engineering,75.2,60.3,80.3,68.9,85.1,Pass
+KNP/STUD/0219,Computing and Informatics,72.2,69.9,71.6,73.0,96.6,Pass
+KNP/STUD/0220,Computing and Informatics,79.0,79.1,87.3,87.1,98.5,Pass
+KNP/STUD/0221,Computing and Informatics,100.0,63.3,71.5,90.9,95.8,Pass
+KNP/STUD/0222,Computing and Informatics,55.6,67.7,82.1,79.5,92.3,Pass
+KNP/STUD/0223,Business,86.2,67.9,100.0,82.1,91.1,Pass
+KNP/STUD/0224,Engineering,58.6,69.2,62.1,52.7,68.7,Pass
+KNP/STUD/0225,Business,72.3,61.3,63.6,88.6,74.9,Pass
+KNP/STUD/0226,Business,91.1,58.4,91.4,60.2,70.3,Pass
+KNP/STUD/0227,Computing and Informatics,78.8,55.2,88.6,73.3,100.0,Pass
+KNP/STUD/0228,Engineering,65.1,66.5,61.5,58.8,68.2,Pass
+KNP/STUD/0229,Business,69.4,70.4,64.9,69.1,80.0,Pass
+KNP/STUD/0230,Applied Sciences,86.2,65.4,70.5,77.9,84.3,Pass
+KNP/STUD/0231,Business,69.2,74.1,54.5,74.4,84.3,Pass
+KNP/STUD/0232,Computing and Informatics,80.6,55.6,59.3,75.4,86.3,Pass
+KNP/STUD/0233,Business,78.5,70.8,60.7,92.1,94.4,Pass
+KNP/STUD/0234,Computing and Informatics,70.2,56.0,58.0,72.7,72.3,Pass
+KNP/STUD/0235,Business,100.0,73.5,79.3,76.8,91.9,Pass
+KNP/STUD/0236,Computing and Informatics,85.6,74.7,78.4,87.2,94.9,Pass
+KNP/STUD/0237,Computing and Informatics,53.7,52.9,80.3,76.0,75.9,Pass
+KNP/STUD/0238,Engineering,80.2,68.2,60.7,58.0,93.1,Pass
+KNP/STUD/0239,Computing and Informatics,70.1,78.1,83.4,78.8,93.8,Pass
+KNP/STUD/0240,Engineering,88.2,69.5,72.8,83.8,95.7,Pass
+KNP/STUD/0241,Computing and Informatics,68.5,75.8,70.1,67.1,89.2,Pass
+KNP/STUD/0242,Business,76.6,59.4,78.0,86.4,95.4,Pass
+KNP/STUD/0243,Business,84.1,78.9,62.5,74.2,89.3,Pass
+KNP/STUD/0244,Business,88.4,89.8,84.1,81.0,87.2,Pass
+KNP/STUD/0245,Computing and Informatics,63.6,40.7,64.2,60.1,73.0,Pass
+KNP/STUD/0246,Computing and Informatics,74.0,61.6,75.4,69.7,77.1,Pass
+KNP/STUD/0247,Computing and Informatics,72.3,74.7,75.1,58.5,79.4,Pass
+KNP/STUD/0248,Computing and Informatics,70.2,66.0,98.7,52.0,88.7,Pass
+KNP/STUD/0249,Business,99.2,83.4,73.8,100.0,100.0,Pass
+KNP/STUD/0250,Applied Sciences,82.9,67.1,66.9,63.1,82.9,Pass
+KNP/STUD/0251,Engineering,62.9,66.0,59.6,55.2,77.8,Pass
+KNP/STUD/0252,Engineering,89.0,74.0,69.8,50.7,97.7,Pass
+KNP/STUD/0253,Engineering,100.0,91.7,75.7,75.7,99.7,Pass
+KNP/STUD/0254,Business,90.4,78.7,92.1,62.0,100.0,Pass
+KNP/STUD/0255,Computing and Informatics,59.8,67.3,83.4,86.1,90.6,Pass
+KNP/STUD/0256,Applied Sciences,72.2,64.8,62.8,81.7,68.7,Pass
+KNP/STUD/0257,Business,93.2,72.4,67.5,69.2,93.7,Pass
+KNP/STUD/0258,Business,69.5,63.5,74.2,95.6,90.0,Pass
+KNP/STUD/0259,Computing and Informatics,83.3,77.3,68.8,87.2,100.0,Pass
+KNP/STUD/0260,Business,87.3,70.7,82.9,71.4,94.9,Pass
+KNP/STUD/0261,Business,66.9,69.6,71.4,39.0,75.2,Pass
+KNP/STUD/0262,Engineering,77.3,91.7,58.3,100.0,84.8,Pass
+KNP/STUD/0263,Business,39.1,64.4,78.2,42.9,69.7,Pass
+KNP/STUD/0264,Computing and Informatics,65.7,63.0,88.9,47.6,72.5,Pass
+KNP/STUD/0265,Applied Sciences,75.0,82.0,66.5,86.2,85.5,Pass
+KNP/STUD/0266,Computing and Informatics,63.0,61.1,61.5,95.4,87.0,Pass
+KNP/STUD/0267,Business,97.6,58.7,79.4,92.6,100.0,Pass
+KNP/STUD/0268,Computing and Informatics,60.8,54.3,68.1,70.9,79.4,Pass
+KNP/STUD/0269,Engineering,72.7,50.4,74.8,74.0,69.9,Pass
+KNP/STUD/0270,Applied Sciences,79.6,68.3,96.7,82.8,95.9,Pass
+KNP/STUD/0271,Computing and Informatics,95.3,78.3,77.1,88.4,100.0,Pass
+KNP/STUD/0272,Engineering,60.8,81.1,59.9,72.8,78.1,Pass
+KNP/STUD/0273,Computing and Informatics,92.0,80.1,62.0,79.8,89.7,Pass
+KNP/STUD/0274,Applied Sciences,78.1,69.1,63.5,71.5,83.5,Pass
+KNP/STUD/0275,Engineering,66.2,74.8,69.4,60.8,75.4,Pass
+KNP/STUD/0276,Engineering,83.5,51.3,91.9,67.0,89.1,Pass
+KNP/STUD/0277,Computing and Informatics,80.4,74.5,67.8,53.7,81.8,Pass
+KNP/STUD/0278,Applied Sciences,70.8,76.0,74.1,70.3,89.2,Pass
+KNP/STUD/0279,Engineering,78.8,56.7,69.8,58.1,71.3,Pass
+KNP/STUD/0280,Computing and Informatics,73.4,80.8,87.4,59.9,84.9,Pass
+KNP/STUD/0281,Engineering,79.4,75.1,100.0,76.0,99.4,Pass
+KNP/STUD/0282,Computing and Informatics,85.9,70.2,68.5,91.5,87.3,Pass
+KNP/STUD/0283,Engineering,97.0,85.1,75.3,92.2,100.0,Pass
+KNP/STUD/0284,Computing and Informatics,63.1,88.0,84.1,52.7,83.2,Pass
+KNP/STUD/0285,Engineering,100.0,81.8,89.5,69.5,98.2,Pass
+KNP/STUD/0286,Business,54.6,64.3,86.4,75.5,90.1,Pass
+KNP/STUD/0287,Computing and Informatics,76.2,65.9,78.0,59.2,71.1,Pass
+KNP/STUD/0288,Computing and Informatics,85.1,65.5,69.3,70.9,70.6,Pass
+KNP/STUD/0289,Computing and Informatics,81.4,80.9,82.7,82.2,81.3,Pass
+KNP/STUD/0290,Business,70.5,59.7,81.4,56.5,89.7,Pass
+KNP/STUD/0291,Computing and Informatics,75.5,70.9,81.7,73.1,82.9,Pass
+KNP/STUD/0292,Business,72.1,64.1,75.5,53.4,99.9,Pass
+KNP/STUD/0293,Computing and Informatics,70.9,73.2,83.7,63.7,81.1,Pass
+KNP/STUD/0294,Computing and Informatics,88.2,78.6,91.2,81.0,97.1,Pass
+KNP/STUD/0295,Engineering,82.3,83.3,92.9,57.2,100.0,Pass
+KNP/STUD/0296,Computing and Informatics,69.7,62.8,76.2,73.7,98.8,Pass
+KNP/STUD/0297,Applied Sciences,88.8,72.8,74.2,76.0,100.0,Pass
+KNP/STUD/0298,Engineering,81.7,62.9,73.8,78.7,95.4,Pass
+KNP/STUD/0299,Business,87.8,70.7,89.9,78.1,100.0,Pass
+KNP/STUD/0300,Business,85.6,78.0,66.5,92.6,97.1,Pass

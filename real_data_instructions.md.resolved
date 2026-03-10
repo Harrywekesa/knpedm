@@ -1,0 +1,53 @@
+# How to Use Real Data with the Predictive Model
+
+The machine learning pipeline is fully built. Currently, it uses simulated data that mimics the expected real-world data from Kitale National Polytechnic. 
+
+Once you receive the **actual** student data from the school, follow these exact steps to swap it into the system seamlessly.
+
+## 1. Prepare Your Data File
+Ensure your real data is in a CSV file format (e.g., `real_student_data.csv`).
+Your file **must** have these exact column headers (case-sensitive):
+- `StudentID` (Optional but good for tracking)
+- `Attendance_Pct` (Numerical, 0-100)
+- `Assignment_Score` (Numerical, 0-100)
+- `CAT_Score` (Numerical, 0-100)
+- `Final_Exam_Score` (Numerical, 0-100)
+- `Status` (Text, either 'Pass' or 'Fail')
+
+*(If your columns are named differently, you will need to rename them in Excel/CSV before proceeding).*
+
+## 2. Update the Python Script
+
+Open the file [phase2_3_models.py](file:///c:/Users/Pi/Videos/mattews/phase2_3_models.py) in your code editor.
+
+Scroll down to the very bottom to the `if __name__ == "__main__":` block.
+Change the filepath in the [load_and_preprocess_data()](file:///c:/Users/Pi/Videos/mattews/phase2_3_models.py#14-48) function call to point to your new file.
+
+**Change from this:**
+```python
+if __name__ == "__main__":
+    X_train, X_test, y_train, y_test, feature_names = load_and_preprocess_data(filepath='simulated_student_data.csv')
+    train_and_evaluate_models(X_train, X_test, y_train, y_test, feature_names)
+```
+
+**To this:**
+```python
+if __name__ == "__main__":
+    X_train, X_test, y_train, y_test, feature_names = load_and_preprocess_data(filepath='real_student_data.csv') # <-- Change the filename here
+    train_and_evaluate_models(X_train, X_test, y_train, y_test, feature_names)
+```
+
+## 3. Run the Pipeline
+Open your terminal or command prompt in the `mattews` folder and run the script:
+
+```bash
+python phase2_3_models.py
+```
+
+### What Happens Next?
+The script will automatically:
+1. Load your real data.
+2. Standardize the numbers.
+3. Train the Decision Tree, Logistic Regression, and Random Forest models on the real students.
+4. Save the trained models in the [models/](file:///c:/Users/Pi/Videos/mattews/phase2_3_models.py#49-114) folder.
+5. Generate fresh Confusion Matrices and Accuracy comparisons in the `evaluation_plots/` folder based on the real performance.
